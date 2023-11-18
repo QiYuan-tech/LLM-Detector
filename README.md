@@ -1,6 +1,8 @@
 LLM-Detector
 
-## Work Timeline
+## Timeline
+
+📢 *Nov. 9, 2023* We are starting the design and construction of the LLM-Detector!
 
 ## Contributions
 
