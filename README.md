@@ -13,3 +13,5 @@ LLM-Detector
 |<img src="https://avatars.githubusercontent.com/u/149642553?s=200&v=4" alt="" width="40"/>|||
 
 > *The above rankings are not in any particular order.*
+
+## License
