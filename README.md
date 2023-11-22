@@ -13,7 +13,7 @@ LLM-Detector
 
 |**Institutions**|||
 |:-:|:-:|:-:|
-|[QiYuan-tech](https://github.com/QiYuan-tech)|[MPU](https://www.mpu.edu.mo/zh/index.php)|[HUST](https://www.hust.edu.cn/)|
+|[QiYuan](https://github.com/QiYuan-tech)|[MPU](https://www.mpu.edu.mo/zh/index.php)|[HUST](https://www.hust.edu.cn/)|
 |<img src="https://avatars.githubusercontent.com/u/149642553?s=200&v=4" alt="" width="40"/>|<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Macao_Polytechnic_University_logo.svg/150px-Macao_Polytechnic_University_logo.svg.png" alt="" width="40"/>|<img src="https://upload.wikimedia.org/wikipedia/zh/thumb/a/ab/Huazhong_University_of_Science_%26_Technology_logo.svg/230px-Huazhong_University_of_Science_%26_Technology_logo.svg.png" alt="" width="40"/>|
 
 > *The above rankings are not in any particular order.*
