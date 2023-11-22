@@ -1,4 +1,5 @@
-LLM-Detector
+
+## <img src="assets/logo.png" style="vertical-align: middle; width: 35px;"> LLM-Detector
 
 ## Timeline
 
