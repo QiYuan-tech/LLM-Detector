@@ -56,4 +56,9 @@
 
 > *The above rankings are not in any particular order.*
 
+## References
+
+1. https://github.com/cardiffnlp/xlm-t
+2. https://github.com/Hello-SimpleAI/chatgpt-comparison-detection
+
 ## License
