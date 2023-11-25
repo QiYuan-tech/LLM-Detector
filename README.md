@@ -62,5 +62,6 @@
 2. https://github.com/Hello-SimpleAI/chatgpt-comparison-detection
 3. https://github.com/blmoistawinde/HarvestText
 4. https://github.com/BLKSerene/Wordless
+5. https://github.com/hankcs/HanLP
 
 ## License
