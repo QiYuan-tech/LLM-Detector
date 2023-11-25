@@ -1,5 +1,5 @@
 
-## <img src="assets/logo.png" style="vertical-align: middle; width: 45px;"> LLM-Detector
+## <img src="assets/logo.png" style="vertical-align: middle; width: 45px;"> LLM-Detector: Using large language models for AI-Generated Text Detection
 
 ## Timeline
 
