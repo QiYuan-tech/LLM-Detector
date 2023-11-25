@@ -60,5 +60,7 @@
 
 1. https://github.com/cardiffnlp/xlm-t
 2. https://github.com/Hello-SimpleAI/chatgpt-comparison-detection
+3. https://github.com/blmoistawinde/HarvestText
+4. https://github.com/BLKSerene/Wordless
 
 ## License
