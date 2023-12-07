@@ -65,5 +65,6 @@
 3. https://github.com/blmoistawinde/HarvestText
 4. https://github.com/BLKSerene/Wordless
 5. https://github.com/hankcs/HanLP
+6. https://github.com/yafuly/DeepfakeTextDetect
 
 ## License
