@@ -79,6 +79,7 @@
 
 If you find our work helpful, feel free to give us a cite.
 
+<!--
 ```bibtex
 @misc{wang2024llmdetector,
       title={LLM-Detector: Improving AI-Generated Chinese Text Detection with Open-Source LLM Instruction Tuning}, 
@@ -89,5 +90,5 @@ If you find our work helpful, feel free to give us a cite.
       primaryClass={cs.CL}
 }
 ```
-
+-->
 ## License
