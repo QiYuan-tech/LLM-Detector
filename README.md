@@ -3,7 +3,8 @@
 
 ## Timeline
 
-📢 *Nov. 9, 2023* We are starting the design and construction of the LLM-Detector!
+- 📢 *Feb. 2, 2024* We published a technical report on LLM-Detector at [arxiv](https://arxiv.org/abs/2402.01158)!
+- 📢 *Nov. 9, 2023* We are starting the design and construction of the LLM-Detector!
 <!--
 ## Contributions
 
@@ -69,7 +70,14 @@
 If you find our work helpful, feel free to give us a cite.
 
 ```bibtex
-coming soon
+@misc{wang2024llmdetector,
+      title={LLM-Detector: Improving AI-Generated Chinese Text Detection with Open-Source LLM Instruction Tuning}, 
+      author={Rongsheng Wang and Haoming Chen and Ruizhe Zhou and Han Ma and Yaofei Duan and Yanlan Kang and Songhua Yang and Baoyu Fan and Tao Tan},
+      year={2024},
+      eprint={2402.01158},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
 ```
 
 ## License
