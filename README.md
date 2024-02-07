@@ -3,7 +3,7 @@
 
 ## Timeline
 
-- 📢 *Feb. 2, 2024* We published a technical report on LLM-Detector at [arxiv](https://arxiv.org/abs/2402.01158)!
+<!-- - 📢 *Feb. 2, 2024* We published a technical report on LLM-Detector at [arxiv](https://arxiv.org/abs/2402.01158)! -->
 - 📢 *Jan. 25, 2024* We have released the small version of the LLM-Detector.
 - 📢 *Nov. 9, 2023* We are starting the design and construction of the LLM-Detector!
 <!--
