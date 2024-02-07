@@ -1,5 +1,5 @@
 
-## <img src="assets/logo.png" style="vertical-align: middle; width: 45px;"> LLM-Detector: Improving AI-generated Chinese Text Detection with Large Language Models 
+## <img src="assets/logo.png" style="vertical-align: middle; width: 45px;"> LLM-Detector: Improving AI-Generated Chinese Text Detection with Open-Source LLM Instruction Tuning
 
 ## Timeline
 
