@@ -4,6 +4,7 @@
 ## Timeline
 
 - 📢 *Feb. 2, 2024* We published a technical report on LLM-Detector at [arxiv](https://arxiv.org/abs/2402.01158)!
+- 📢 *Jan. 25, 2024* We have released the small version of the LLM-Detector.
 - 📢 *Nov. 9, 2023* We are starting the design and construction of the LLM-Detector!
 <!--
 ## Contributions
@@ -64,6 +65,15 @@
 6. https://github.com/yafuly/DeepfakeTextDetect
 
 -->
+
+## Model
+
+|Model|Download|
+|:-|:-|
+|LLM-Detector-Small-en|[![Static Badge](https://img.shields.io/badge/-gery?style=social&label=🤗%20Huggingface)](https://huggingface.co/QiYuan-tech/LLM-Detector-Small-en) [![Static Badge](https://img.shields.io/badge/-gery?style=social&label=🤖%20ModelScope)](https://modelscope.cn/models/QiYuan-tech/LLM-Detector-Small-en)|
+|LLM-Detector-Small-zh|[![Static Badge](https://img.shields.io/badge/-gery?style=social&label=🤗%20Huggingface)](https://huggingface.co/QiYuan-tech/LLM-Detector-Small-zh) [![Static Badge](https://img.shields.io/badge/-gery?style=social&label=🤖%20ModelScope)](https://modelscope.cn/models/QiYuan-tech/LLM-Detector-Small-zh)|
+
+
 
 ## Citation
 
