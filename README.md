@@ -79,6 +79,15 @@
 
 If you find our work helpful, feel free to give us a cite.
 
+```bibtex
+@article{wang2024llm,
+  title={LLM-Detector: Improving AI-Generated Chinese Text Detection with Open-Source LLM Instruction Tuning},
+  author={Wang, Rongsheng and Chen, Haoming and Zhou, Ruizhe and Ma, Han and Duan, Yaofei and Kang, Yanlan and Yang, Songhua and Fan, Baoyu and Tan, Tao},
+  journal={arXiv preprint arXiv:2402.01158},
+  year={2024}
+}
+```
+
 <!--
 ```bibtex
 @misc{wang2024llmdetector,
